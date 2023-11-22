@@ -5,6 +5,10 @@ public class MyClass {
         System.out.println("AB-03");
         System.out.println("AB-02");
         System.out.println("AB-04");
+
         System.out.println("AB-05");
+
+        System.out.println("AB-06");
+
     }
 }
