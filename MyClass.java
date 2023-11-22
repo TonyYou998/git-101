@@ -4,5 +4,6 @@ public class MyClass {
         System.out.println("asdasda");
         System.out.println("AB-03");
         System.out.println("AB-02");
+        System.out.println("AB-04");
     }
 }
